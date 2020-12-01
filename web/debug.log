@@ -1,0 +1,6 @@
+[1012/171223.167:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
+[1014/144512.632:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
+[1015/001833.676:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
+[1015/133649.455:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\joaop\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\5d377a5a-3ea2-45e1-9f66-becbcfa8cae5: O sistema não pode encontrar o caminho especificado. (0x3)
+[1015/133649.486:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
+[1015/172941.551:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
